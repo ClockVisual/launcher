@@ -1,4 +1,4 @@
 {
-  "game_url": "https://example.com/test",
-  "executable": "ClockClient.exe"
+  "game_url": "https://ваш-сервер/ClockClient.jar",
+  "jar_name": "ClockClient.jar"
 }
