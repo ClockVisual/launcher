@@ -1,3 +1,5 @@
 {
   "download_url_update": "https://exemple.cop/ClockClient.jar",
+  "version": "1.0.0",
+  "changelog": "Первый релиз ClockVisual"
 }
