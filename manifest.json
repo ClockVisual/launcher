@@ -3,12 +3,12 @@
 
   "versions": {
     "1.21.4": {
-      "release": 4,
+      "release": 1,
       "clientZipUrl": "https://www.dropbox.com/scl/fi/04azzdrkyzhw37m6uz5no/fabric_1.21.4.zip?rlkey=friiw1ud6qrao690d721vxpbe&st=5shv4drm&dl=1",
       "jreRarUrl": "https://www.dropbox.com/scl/fi/vg0wo8w4t2vkpf1etewt8/jre.rar?rlkey=so5yan86amcy7o0whq2yr3qmj&st=15ti2p6e&dl=1"
     },
     "1.16.5": {
-      "release": 2,
+      "release": 1,
       "clientZipUrl": "https://www.dropbox.com/scl/fi/tp4vibivzs6ns351kvc32/client_1.16.5.zip?rlkey=xk11g64tmllamzstskrbg0pjx&st=y7abopyb&dl=1",
       "jreRarUrl": "https://www.dropbox.com/scl/fi/qw08u06gylxfrn0r8ldwg/jre17.rar?rlkey=b8udz3atpfps91kyo4yc82nf0&st=mmub62y3&dl=1"
     }
