@@ -3,7 +3,7 @@
 
   "versions": {
     "1.21.4": {
-      "release": 1,
+      "release": 2,
       "clientZipUrl": "https://1www.dropbox.com/scl/fi/04azzdrkyzhw37m6uz5no/fabric_1.21.4.zip?rlkey=friiw1ud6qrao690d721vxpbe&st=5shv4drm&dl=1",
       "jreRarUrl": "https://www.dropbox.com/scl/fi/vg0wo8w4t2vkpf1etewt8/jre.rar?rlkey=so5yan86amcy7o0whq2yr3qmj&st=15ti2p6e&dl=1"
     },
