@@ -1,0 +1,46 @@
+{
+  "versions": {
+    "1.21.4": {
+      "clientZipUrl": "https://www.dropbox.com/scl/fi/04azzdrkyzhw37m6uz5no/fabric_1.21.4.zip?rlkey=friiw1ud6qrao690d721vxpbe&st=5shv4drm&dl=1",
+      "clientZipName": "fabric_1.21.4.zip",
+      "jreRarUrl": "https://www.dropbox.com/scl/fi/vg0wo8w4t2vkpf1etewt8/jre.rar?rlkey=so5yan86amcy7o0whq2yr3qmj&st=15ti2p6e&dl=1",
+      "jreRarName": "jre21.rar",
+      "javaVersion": 21,
+      "fabricVersionPrefixes": ["fabric-loader-1.21.4", "Fabric 1.21.4"]
+    },
+    "1.16.5": {
+      "clientZipUrl": "https://www.dropbox.com/scl/fi/tp4vibivzs6ns351kvc32/client_1.16.5.zip?rlkey=xk11g64tmllamzstskrbg0pjx&st=y7abopyb&dl=1",
+      "clientZipName": "client_1.16.5.zip",
+      "jreRarUrl": "https://www.dropbox.com/scl/fi/qw08u06gylxfrn0r8ldwg/jre17.rar?rlkey=b8udz3atpfps91kyo4yc82nf0&st=mmub62y3&dl=1",
+      "jreRarName": "jre17.rar",
+      "javaVersion": 17,
+      "fabricVersionPrefixes": ["1.16.5", "vanilla-1.16.5"]
+    }
+  },
+  "mods": {
+    "simple-voice-chat": {
+      "name": "Simple Voice Chat",
+      "description": "A working voice chat in Minecraft!",
+      "icon": "https://cdn.modrinth.com/data/9eGKb6K1/icon.png",
+      "tags": ["Adventure", "Social", "Utility"],
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/pl9FpaYJ/voicechat-fabric-1.21.4-2.5.26.jar?mr_download_reason=standalone",
+      "filename": "voicechat-fabric-1.21.4-2.5.26.jar"
+    },
+    "sodium": {
+      "name": "Sodium",
+      "description": "A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter.",
+      "icon": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+      "tags": ["Optimization", "Utility"],
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/joBzVWtR/sodium-fabric-0.6.2%2Bmc1.21.4.jar?mr_download_reason=standalone",
+      "filename": "sodium-fabric-0.6.2+mc1.21.4.jar"
+    },
+    "appleskin": {
+      "name": "AppleSkin",
+      "description": "Food/hunger-related HUD improvements.",
+      "icon": "https://cdn.modrinth.com/data/EsAfCjCV/icon.png",
+      "tags": ["Food", "Utility"],
+      "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/cHQjeYVS/appleskin-fabric-mc1.21.3-3.0.6.jar?mr_download_reason=standalone&mr_game_version=1.21.4&mr_loader=fabric",
+      "filename": "appleskin-fabric-mc1.21.3-3.0.6.jar"
+    }
+  }
+}
